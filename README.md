@@ -1,4 +1,4 @@
-## Helol, I'm Kevin
+## Hello, I'm Kevin
 
 I am an MSc in Statistics student at Imperial College London and come from Ireland.
 
