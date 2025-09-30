@@ -9,4 +9,4 @@ Interests:
 - History
 - Going to the gym
 
-For more information, check out my [LinkedIn] (https://ie.linkedin.com/in/kevin-o%E2%80%99loughlin-4b8a35232)
+For more information, check out my [LinkedIn](https://ie.linkedin.com/in/kevin-o%E2%80%99loughlin-4b8a35232)
